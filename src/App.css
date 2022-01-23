@@ -1,0 +1,30 @@
+body{
+    font-family:verdana;
+    font-size:18px;
+
+}
+.home{
+    min-height:100vh;
+    background: #3494E6;
+    background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
+    background: linear-gradient(to right, #EC6EAD, #3494E6); 
+    padding:10px;
+}
+.home-1{
+    background-color: rgba(207, 191, 191, 0.4);
+    border-radius: 10px;
+    padding:10px;
+}
+.home-2{
+    background-color: rgba(132, 131, 205, 0.8);
+    border-radius:5px;
+    padding:10px;
+}
+.home-img{
+    border:5px solid rgb(153 123 211);
+    border-radius: 10px;
+}
+.icon-w{
+    height:20px;
+}
+a{color:black}
