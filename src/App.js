@@ -16,7 +16,7 @@ function App() {
             </div>
         </Col>
         <div class="col-md-auto"></div>
-        <Col style={{padding:"20px"}} className="col1 col-sm">I'm Bright Whisper and I'm very into warrior cats! I recently started animating and drawing them and immediately fell in love in it :)<br/>
+        <Col style={{padding:"20px"}} className="col1 col-sm">I'm a self-taught artist and I like animating and sometimes also do some things in 3D! :)<br/>
         <a href="https://youtube.com/channel/UCkopGOu9zE0BBnsphLdc0QA" target="_blank" rel="noreferrer"><ImYoutube2 size="70px"/></a><span style={{paddingRight:"5px"}}></span>
         <a href="https://www.instagram.com/bright_whisper/" target="_blank" rel="noreferrer"><GrInstagram size="30px"/></a>
         </Col>
